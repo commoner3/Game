@@ -66,5 +66,10 @@ async def setup(bot):
 5. Enable necessary intents in "Bot" settings
 6. Invite bot to your server via OAuth2 URL generator
 
+## Contact
+
+- **Email:** dankwahstephen389@gmail.com
+- **WhatsApp:** +233 0542635388
+
 ## License
 MIT
