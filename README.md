@@ -2,6 +2,8 @@
 
 A Python Discord bot built with discord.py with support for Telegram linking, media downloads, and more.
 
+> 📚 **Bot created by Dankwah Stephen for educational purposes**
+
 ## Features
 - Command handling
 - Event listeners
@@ -241,6 +243,10 @@ MAX_FILE_SIZE=500  # MB
 
 ## License
 MIT
+
+## Creator
+
+**Bot created by Dankwah Stephen for educational purposes**
 
 ## Contact
 
